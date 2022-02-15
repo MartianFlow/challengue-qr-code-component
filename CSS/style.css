@@ -50,7 +50,7 @@ body {
 
 }
 
-@media(min-width:600px){
+/* @media(min-width:600px){
     .section-qr {
         height: 65vh;
         width: 23vw;
@@ -74,4 +74,4 @@ body {
         color: hsl(220, 15%, 55%);
 
     }
-}
+} */
